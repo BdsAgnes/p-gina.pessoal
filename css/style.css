@@ -1,0 +1,57 @@
+body{
+    background-color: #2e2d4c;
+}
+div.conteudo{
+    width: 74%;
+    background-color: white;
+    padding: 50px;
+    margin: 120px auto;
+    border-radius: 10px;
+    
+   
+   
+}
+.cabeçalho{
+    text-align: center;
+    margin: 100px auto;
+    padding: 30px;
+    color: #F56A6A;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    line-height: 1;
+}
+
+.navigation li{
+    display: inline-block;
+    width: 150px;
+    font-size: 1.2rm;
+    text-transform:uppercase;
+
+}
+.navigation li a:link
+.navigation li a:visited{
+    color: gray;
+    text-decoration: none;
+
+}
+.navigation li a:hover{
+    color: #494848;
+    text-decoration: underline;
+    
+}
+.navigation li a:active{
+    color: #571e1e;
+    text-decoration: underline;
+    
+}
+
+.flutuando img{
+    float: left;
+    padding: 20px;
+}
+.fonte-media{
+    font-size: 1.5rem;
+}
+.titulo{
+    font-size: 1.9rem;
+    margin-top: 50px;
+}
