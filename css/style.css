@@ -88,5 +88,12 @@ div.conteudo{
 }
 .btn-inicio:hover{
     opacity: 1;
-    
+
+}
+.footer{
+    position: relative;
+    padding: 120px;
+    background-color: #1e1d33;
+    color: #ffff;
+    text-align: center;
 }
